@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>city.planning</OriginalElement>
+  <nodes>
+    <node x="0.0" y="819.0">city.planning.IEditMode</node>
+    <node x="367.0" y="987.0">city.planning.User</node>
+    <node x="251.75000000000003" y="0.0">city.planning.Structure</node>
+    <node x="367.0" y="819.0">city.planning.IUser</node>
+    <node x="0.0" y="1307.0">city.planning.Street</node>
+    <node x="221.50000000000003" y="351.0">city.planning.Building</node>
+    <node x="854.0" y="783.0">city.planning.IViewMode</node>
+    <node x="429.0" y="533.0">city.planning.House</node>
+    <node x="425.5" y="363.5">city.planning.Playground</node>
+    <node x="218.00000000000003" y="557.0">city.planning.Office</node>
+    <node x="0.0" y="582.0">city.planning.Market</node>
+    <node x="1247.0" y="783.0">city.planning.MyArray</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="city.planning.Office" target="city.planning.Building" relationship="GENERALIZATION">
+      <point x="0.0" y="-78.5" />
+      <point x="0.0" y="66.0" />
+    </edge>
+    <edge source="city.planning.User" target="city.planning.IEditMode" relationship="REALIZATION">
+      <point x="0.0" y="-137.5" />
+      <point x="600.5" y="962.0" />
+      <point x="173.5" y="962.0" />
+      <point x="0.0" y="41.0" />
+    </edge>
+    <edge source="city.planning.Market" target="city.planning.Building" relationship="GENERALIZATION">
+      <point x="0.0" y="-53.5" />
+      <point x="99.0" y="508.0" />
+      <point x="313.5" y="508.0" />
+      <point x="0.0" y="66.0" />
+    </edge>
+    <edge source="city.planning.Playground" target="city.planning.Structure" relationship="GENERALIZATION">
+      <point x="0.0" y="-53.5" />
+      <point x="516.0" y="326.0" />
+      <point x="414.75" y="326.0" />
+      <point x="0.0" y="150.5" />
+    </edge>
+    <edge source="city.planning.User" target="city.planning.IUser" relationship="REALIZATION">
+      <point x="0.0" y="-137.5" />
+      <point x="0.0" y="41.0" />
+    </edge>
+    <edge source="city.planning.User" target="city.planning.IViewMode" relationship="REALIZATION">
+      <point x="0.0" y="-137.5" />
+      <point x="600.5" y="962.0" />
+      <point x="1028.0" y="962.0" />
+      <point x="0.0" y="77.0" />
+    </edge>
+    <edge source="city.planning.House" target="city.planning.Building" relationship="GENERALIZATION">
+      <point x="0.0" y="-102.5" />
+      <point x="537.0" y="508.0" />
+      <point x="313.5" y="508.0" />
+      <point x="0.0" y="66.0" />
+    </edge>
+    <edge source="city.planning.Building" target="city.planning.Structure" relationship="GENERALIZATION">
+      <point x="0.0" y="-66.0" />
+      <point x="313.5" y="326.0" />
+      <point x="414.75" y="326.0" />
+      <point x="0.0" y="150.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="0.5487341772151899" showDependencies="false" x="743.0" y="780.0" />
+  <SelectedNodes>
+    <node>city.planning.Street</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
