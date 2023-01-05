@@ -1,0 +1,128 @@
+\documentclass[a4 paper]{article}
+\usepackage[inner=2.0cm,outer=2.0cm,top=2.5cm,bottom=2.5cm]{geometry}
+\usepackage{setspace}
+\usepackage[ruled]{algorithm2e}
+\usepackage[rgb]{xcolor}
+\usepackage{verbatim}
+\usepackage{subcaption}
+\usepackage{amsgen,amsmath,amstext,amsbsy,amsopn,tikz,amssymb}
+\usepackage{fancyhdr}
+\usepackage[colorlinks=true, urlcolor=blue,  linkcolor=blue, citecolor=blue]{hyperref}
+\usepackage[colorinlistoftodos]{todonotes}
+\usepackage{rotating}
+\usepackage{booktabs}
+\newcommand{\ra}[1]{\renewcommand{\arraystretch}{#1}}
+
+\newtheorem{thm}{Theorem}[section]
+\newtheorem{prop}[thm]{Proposition}
+\newtheorem{lem}[thm]{Lemma}
+\newtheorem{cor}[thm]{Corollary}
+\newtheorem{defn}[thm]{Definition}
+\newtheorem{rem}[thm]{Remark}
+\numberwithin{equation}{section}
+
+\newcommand{\homework}[6]{
+   \pagestyle{myheadings}
+   \thispagestyle{plain}
+   \newpage
+   \setcounter{page}{1}
+   \noindent
+   \begin{center}
+   \framebox{
+      \vbox{\vspace{2mm}
+    \hbox to 6.28in { {\bf MATH 118:~Statistics and Probability \hfill {\small (#2)}} }
+       \vspace{6mm}
+       \hbox to 6.28in { {\Large \hfill #1  \hfill} }
+       \vspace{6mm}
+       \hbox to 6.28in { {\it Instructor: {\rm #3} \hfill Name: {\rm #5} \hfill Student Id: {\rm #6}} \hfill}
+       \hbox to 6.28in { {\it Assistant: #4  \hfill}}
+      \vspace{2mm}}
+   }
+   \end{center}
+   \markboth{#5 -- #1}{#5 -- #1}
+   \vspace*{4mm}
+}
+
+\newcommand{\problem}[2]{~\\\fbox{\textbf{Problem #1}}\hfill (#2 points)\newline\newline}
+\newcommand{\subproblem}[1]{~\newline\textbf{(#1)}}
+\newcommand{\D}{\mathcal{D}}
+\newcommand{\Hy}{\mathcal{H}}
+\newcommand{\VS}{\textrm{VS}}
+\newcommand{\solution}{~\newline\textbf{\textit{(Solution)}} }
+
+\newcommand{\bbF}{\mathbb{F}}
+\newcommand{\bbX}{\mathbb{X}}
+\newcommand{\bI}{\mathbf{I}}
+\newcommand{\bX}{\mathbf{X}}
+\newcommand{\bY}{\mathbf{Y}}
+\newcommand{\bepsilon}{\boldsymbol{\epsilon}}
+\newcommand{\balpha}{\boldsymbol{\alpha}}
+\newcommand{\bbeta}{\boldsymbol{\beta}}
+\newcommand{\0}{\mathbf{0}}
+
+
+\begin{document}
+\homework{Homework \#1}{Due: 26/04/21}{Dr. Zafeirakis Zafeirakopoulos}{Gizem S\"ung\"u}{Abdurrahman BULUT}{1901042258}
+
+\hfill \break
+\hfill \break
+
+\textbf{Hypothesis }: The number of new cases causes a slowdown in reproduction.
+\begin{itemize}
+\item Reproduction rate was 1.47 when cases started to occur in Afghanistan in 29 march 2020. This rate decreased to about 0.7 in June-July 2020 and in this date, new cases numbers are between 300-900. Then case numbers decreased to between 60-100. At the same time, reproduction rate comes to about 1.20s in October-November. Same things obviously is happening for Australia. While the reproduction rate was 2017 in March, it drops to 0.4 in a few months with cases.
+\end{itemize}
+\hfill \break
+
+\textbf{Hypothesis }: Number of tests decreases coronavirus deaths
+\begin{itemize}
+\item There are two countries Austria and Belgium which has same situation in most of variables. Austria has higher new test per day and value of test per case than Belgium. Austria has also lower number of death than Belgium.  
+\end{itemize}
+\hfill \break
+
+\textbf{Hypothesis }: Smoking increases the death rate
+\begin{itemize}
+\item Although there are 400-500 cases per day in Ghana, the total death rate per millions is very low. Most of the time, death doesn't even happen. In Ghana, female smokers rate is 0.3 and male's is 7.7. Compared to Montenegro, the difference is obvious. In Montenegro, even when the daily number of cases is around 300, the daily death rate is between 10-12. Female smokers rate is 44 and male smokers rate is 47.9.
+\end{itemize}
+\hfill \break
+
+\textbf{Hypothesis }: When the human development index increases, rate of vaccination per hundred also increases. 
+\begin{itemize}
+\item Human development index of US is 0.926. It increased rate of total vaccinations per hundred from 0.17 to 66.48 in three months. Another example is Germany is at index of 0.947. Again, it increased rate of total vaccinations per hundred from 0.03 to 29.63 in three months. Just the opposite, human development index of Cote D'lvoire is 0,538 and it's rate of total vaccinations per hundred is about 0,41. Worse, data cannot be retrieved from most countries below 0.5.
+\end{itemize}
+\hfill \break
+
+\textbf{Hypothesis }: Extreme poverty cause decreasing of data tracking.
+\begin{itemize}
+\item Often in countries with an extreme poverty value of greater than 1.0, hospital patients data are not shared or tracked. Most Europe countries have 0.5 and lower point and they track and share hospital patients data. Bangladesh has 14.8 point and no data sharing. Belgium has 0.2 point and it have shared.
+\end{itemize}
+\hfill \break
+
+\textbf{Hypothesis }: Low hand-washing facilities causes positive rate of tests.
+\begin{itemize}
+\item   Ex. There are two countries Bhutan and Bolivia. Bhutan has 79.807 hand-washing facilities and Bolivia has only 25.383. In Bhutan, average value of the test per case is 0.00218, but this value become 0.636 for Bolivia which has 25.383 hand-washing facilities.
+\end{itemize}
+\hfill \break
+
+\newpage
+\textbf{Hypothesis }: The number of people aged 65-70 older causes coronavirus deaths
+\begin{itemize}
+\item There are two countries Jordan and Portugal which has same situation in most of variables. Portugal has higher people aged 65-70 than Jordan. Portugal has also higher number of death than Jordan. 
+\end{itemize}
+\hfill \break
+
+\textbf{Hypothesis }: The vaccination decrease coronavirus deaths per case 
+\begin{itemize}
+\item There are two countries Dominican and Jordan which has same situation in most of variables. Dominican has higher vaccinated people than Jordan. Dominican has also lower number of death per case than Jordan. 
+\end{itemize}
+\hfill \break
+
+\textbf{Hypothesis }: Lower median age cause higher coronavirus case
+\begin{itemize}
+\item   There are two countries Panama and Italy which has same situation in most of variables. Italy has higher median age than Panama. Italy has also higher number of case than Panama. It shows that cases are spreading due to the mobility of young people. 
+\end{itemize}
+\hfill \break
+
+
+\end{document} 
+
+
