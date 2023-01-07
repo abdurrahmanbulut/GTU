@@ -1,2 +1,2 @@
-# Java-Data-Structure - Spring 2022
-GTU CSE222 - Data Structure And Algorithm course assignments
+# GTU CSE222 - Data Structure And Algorithm course assignments - Java - Spring 2022
+
