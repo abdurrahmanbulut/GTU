@@ -1,3 +1,5 @@
+Points: 100/100
+
 Compile it using      ->   "make"        command <br />
 Run it using          ->   "make run"    command <br />
 Clean .o files using  ->   "make clean"  command <br />
