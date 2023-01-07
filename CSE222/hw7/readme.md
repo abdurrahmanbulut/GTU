@@ -1,1 +1,1 @@
-Grade: 90
+Points: 90
