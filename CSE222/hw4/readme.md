@@ -1,1 +1,1 @@
-Grade: 185
+Points: 185
