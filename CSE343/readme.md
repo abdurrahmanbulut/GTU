@@ -35,6 +35,6 @@
 <h4>6.Graphical Interface and its backend services</h4>
  
 <h4>7.Test Reports</h4>
-<hr>
+
 [Grocery App Repo](https://github.com/abdurrahmanbulut/GroceryApp) <br>
 [Grocery App Admin Panel Repo](https://github.com/abdurrahmanbulut/Admin_panel)
