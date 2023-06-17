@@ -15,3 +15,11 @@ PA5 - Catalog
 PS's - Problem sessions
 
 Hexgame
+
+
+# Asignments
+
+
+| Assignment 1 | Assignment 2 | Assignment 3 | Assignment 4 | Assignment 5 |
+|--------------|--------------|--------------|--------------|--------------|
+|     100      |     100      |     100      |     100      |     100      | 
