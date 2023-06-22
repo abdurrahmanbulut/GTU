@@ -1,0 +1,11 @@
+Request from client 22071: Connect
+Request from client 22071: list
+Request from client 22071: help
+Request from client 22071: help
+Request from client 22085: Connect
+Request from client 22085: list
+Request from client 22085: help
+Request from client 22108: Connect
+Request from client 22108: list
+Request from client 22108: help
+Kill signal received, terminating...

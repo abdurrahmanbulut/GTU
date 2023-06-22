@@ -1,0 +1,7 @@
+Request from client 190196: list
+Request from client 190196: help
+Request from client 190392: list
+Request from client 190392: help
+Request from client 190196: readF
+Request from client 190196: readF
+Kill signal received, terminating...
