@@ -27,4 +27,4 @@ This repository contains lecture notes and materials from various courses I have
 | CSE470      | Cryptography and Computer Security | [Repo](https://github.com/abdurrahmanbulut/GTU/tree/main/CSE470) | BA |
 | CSE476      | Mobile Communication Networks | [Repo](https://github.com/abdurrahmanbulut/GTU/tree/main/CSE476) | BB |
 | CSE495 - 1  | Graduation Project I         | [Repo](https://github.com/abdurrahmanbulut/GTU/tree/main/CSE495%20-%201) | BB |
-| CSE495 - 2  | Graduation Project II        | [Repo](https://github.com/abdurrahmanbulut/GTU/tree/main/CSE495%20-%202) | - |
+| CSE495 - 2  | Graduation Project II        | [Repo](https://github.com/abdurrahmanbulut/GTU/tree/main/CSE495%20-%202) | BA |
