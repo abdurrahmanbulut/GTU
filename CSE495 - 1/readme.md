@@ -1,4 +1,8 @@
-includes presentations and report
+GTU Graduation Project - 1
+
+Song Popularity Prediction
+
+Supervisor: Dr. Gökhan Kaya
 
 [Machine Learning Parts](https://github.com/abdurrahmanbulut/song-popularity-prediction-ML)
 
