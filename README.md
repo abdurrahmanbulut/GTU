@@ -12,7 +12,7 @@ This repository contains lecture notes and materials from various courses I have
 | CSE232      | 	Logic Circuits And Design | Repo not available | BA |
 | CSE234      | 	Logic Circuits And Design Laboratory | Repo not available | BB |
 | CSE241      | Object Oriented Programming  | [Repo](https://github.com/abdurrahmanbulut/GTU/tree/main/CSE241) | BA |
-| CSE312      | Operating Systems            | [Repo](https://github.com/abdurrahmanbulut/GTU/tree/main/CSE312) | - |
+| CSE312      | Operating Systems            | [Repo](https://github.com/abdurrahmanbulut/GTU/tree/main/CSE312) | DC |
 | CSE321      | Introduction To Algorithm Design | [Repo](https://github.com/abdurrahmanbulut/GTU/tree/main/CSE321) | BB |
 | CSE331      | 	Computer Organization | Repo not available | DC |
 | CSE341      | 	Programming Languages | Repo not available | DC |
