@@ -17,7 +17,7 @@ This repository contains lecture notes and materials from various courses I have
 | CSE331      | 	Computer Organization | Repo not available | DC |
 | CSE341      | 	Programming Languages | Repo not available | DC |
 | CSE343      | Software Engineering         | [Repo](https://github.com/abdurrahmanbulut/GTU/tree/main/CSE343) | BB |
-| CSE344      | System Programming            | [Repo](https://github.com/abdurrahmanbulut/GTU/tree/main/CSE344) | - |
+| CSE344      | System Programming            | [Repo](https://github.com/abdurrahmanbulut/GTU/tree/main/CSE344) | DD |
 | CSE351      | Signals and Systems          | [Repo](https://github.com/abdurrahmanbulut/GTU/tree/main/CSE351) | AA |
 | CSE396      | Computer Engineering Project | [Repo](https://github.com/abdurrahmanbulut/GTU/tree/main/CSE396) | CB |
 | CSE422      | 	Theory of Computation | Repo not available | CC |
