@@ -7,7 +7,7 @@ This repository contains lecture notes and materials from various courses I have
 | CSE107      | 	Introduction to Computer Science Laboratory | Repo not available | BB |
 | CSE102      | Computer Programming         | [Repo](https://github.com/abdurrahmanbulut/GTU/tree/main/CSE102-Computer%20Programming) | CB |
 | CSE108      | Computer Programming Laboratory | Repo not available | BB |
-| MATH118     | Probability and Statistics   | [Repo](https://github.com/abdurrahmanbulut/GTU/tree/main/MATH118) | BA |
+| MATH118     | Probability and Statistics   | [Repo](https://github.com/abdurrahmanbulut/GTU/tree/main/MATH118-Probability%20and%20Statistics) | BA |
 | CSE222      | Data Structures And Algorithms   | [Repo](https://github.com/abdurrahmanbulut/GTU/tree/main/CSE222-Data%20Structures%20And%20Algorithms) | CB |
 | CSE232      | 	Logic Circuits And Design | Repo not available | BA |
 | CSE234      | 	Logic Circuits And Design Laboratory | Repo not available | BB |
