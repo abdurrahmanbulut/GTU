@@ -25,6 +25,6 @@ This repository contains lecture notes and materials from various courses I have
 | CSE454      | Data Mining                  | [Repo](https://github.com/abdurrahmanbulut/GTU/tree/main/CSE454) | CB |
 | CSE456      | 	Human Computer Interaction | Repo not available | BA |
 | CSE470      | Cryptography and Computer Security | [Repo](https://github.com/abdurrahmanbulut/GTU/tree/main/CSE470) | BA |
-| CSE476      | Mobile Communication Networks | [Repo](https://github.com/abdurrahmanbulut/GTU/tree/main/CSE476) | BB |
-| CSE495 - 1  | Graduation Project I         | [Repo](https://github.com/abdurrahmanbulut/GTU/tree/main/CSE495%20-%201) | BB |
-| CSE495 - 2  | Graduation Project II        | [Repo](https://github.com/abdurrahmanbulut/GTU/tree/main/CSE495%20-%202) | BA |
+| CSE476      | Mobile Communication Networks | [Repo](https://github.com/abdurrahmanbulut/GTU/tree/main/CSE476-Mobile%20Communication%20Networks) | BB |
+| CSE495 - 1  | Graduation Project I         | [Repo](https://github.com/abdurrahmanbulut/GTU/tree/main/CSE495-Graduation%20Project%201) | BB |
+| CSE495 - 2  | Graduation Project II        | [Repo](https://github.com/abdurrahmanbulut/GTU/tree/main/CSE495-Graduation%20Project%202) | BA |
